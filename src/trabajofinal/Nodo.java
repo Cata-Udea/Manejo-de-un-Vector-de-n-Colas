@@ -26,9 +26,9 @@ public class Nodo {
         return compra;
     }
 
-    public void setCompra(Compra compra) {
+    /*public void setCompra(Compra compra) {
         this.compra = compra;
-    }
+    }*/
 
     
 }
